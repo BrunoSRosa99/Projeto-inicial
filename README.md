@@ -15,6 +15,7 @@
 
 ![Imagem](https://github.blog/wp-content/uploads/2023/01/1200x640-2.png?fit=1200%2C640)
 
+<<<<<<< HEAD
 Meu Primeiro Readmme
 =======
 # titulo
@@ -35,3 +36,6 @@ Meu Primeiro Readmme
 ![Imagem](https://github.blog/wp-content/uploads/2023/01/1200x640-2.png?fit=1200%2C640)
 
 Meu Primeiro Readm.ME
+=======
+Meu Primeiro Readmme
+>>>>>>> d55c07b (Salvando de novo, por segurança)

@@ -9,6 +9,7 @@ nome = "Bruno"
 
 print(Idade)
 
+print(nome)
 # Soma
 
 Nova_idade = Idade + 1
@@ -19,4 +20,3 @@ lista = [1,2,3,4,5]
 
 #metodos
 Lista_invertida = lista.reverse()
-
