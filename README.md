@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Meu Primeiro Readmme
 =======
 # titulo
 ## Subtitulo
